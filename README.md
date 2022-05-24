@@ -13,7 +13,7 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
   <img align="center" alt="Lucas-Postgree" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-  <img align="center" alt="Lucas-html" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=740">
+  <img align="center" alt="Lucas-html" height="20" width="30" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=740">
 </div>
   
   

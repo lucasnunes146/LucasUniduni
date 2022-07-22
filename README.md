@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo Lucas Nunes Calvoso Morato, sou estudante de Análise e Desenvolvimento de Sistemas no IESB de Brasília.
-- 👀  Estou atualmente aprendendo Python, Java e SQL.
+- 👀  Estou atualmente aprendendo HTML/CSS, Java, SQL e JavaScript.
 - 📫  Para entrar em contato comigo -> lucasnunes146@gmail.com.
 
 <div>
